@@ -6,8 +6,10 @@ import Portfolio from './pages/Portfolio';
 import Navbar from './components/Navbar';
 import './App.css';
 
-function App() {
+
+const App = () => {
   return (
+    <div>
     <Router>
         <Navbar />
 
@@ -19,6 +21,7 @@ function App() {
           </Switch>
         </div>
     </Router>
+    </div>
   );
 }
 
