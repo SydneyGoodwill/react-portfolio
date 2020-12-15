@@ -45,7 +45,7 @@ img {
   border-radius: 4px;
   padding: .5rem;
   background-color: white;
-  opacity: 80%;
+  /* opacity: 80%; */
 }
 
 .big-container {
