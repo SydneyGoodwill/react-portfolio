@@ -15,6 +15,7 @@
   * [Test](#test)
   * [Questions](#questions)
   * [License](#license)
+  * [Link](#link)
   * [Author](#author)
   
   ## Installation
@@ -31,6 +32,10 @@
 
   ## Questions
   If you have any further questions about this application, feel free to contact me at: sydneyjogoodwill@gmail.com
+
+  ## Link
+  Here is a link to the deployed application:
+  https://sydneygoodwill.github.io/react-portfolio/
 
   ## Author
   Sydney Goodwill 
