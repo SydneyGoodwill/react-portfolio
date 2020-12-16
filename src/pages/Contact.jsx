@@ -3,11 +3,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Contact = () => {
   return (
+    <div>
+
     <div class="container">
       <div class="row">
         <div class="col-xs-10.25 col-md-8 col-lg-10">
           <div class="white-box">
-            <h1 class="contact">Contact</h1>
+            
             <h6 class="contact-info">If you have any questions about my portfolio, or are interested in collaborating, feel free to contact me:</h6>
             <ul>
               <li>
@@ -24,6 +26,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
+    </div>
   )
 };
 

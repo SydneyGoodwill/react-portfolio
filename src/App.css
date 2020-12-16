@@ -73,3 +73,11 @@ footer {
 .form-group {
   margin: 1%;
 }
+
+#headerID {
+  text-align: center;
+}
+
+#footer1 {
+  padding: 1%;
+}

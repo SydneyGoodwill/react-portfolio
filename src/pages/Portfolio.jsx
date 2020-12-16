@@ -8,7 +8,7 @@ import workdayscheduler from '../assets/workdayscheduler.gif';
 const Portfolio = () => {
     return (
       <div class="big-container">
-        <h1 class="portfolio">Portfolio</h1>
+        
         <p class="portfolio">You can view all of my code repositories on my  <a href="https://github.com/SydneyGoodwill">GitHub</a> profile!</p>
         <div class="card-container">
           <div class="col-mb-4">

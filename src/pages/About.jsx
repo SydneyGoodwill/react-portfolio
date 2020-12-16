@@ -3,7 +3,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import aboutme from '../assets/aboutme.png';
 
 const About = () => {
-    return (
+  return (
+      <div>
+      
       <div class="container">
         <div class="row">
           <div class="col-xs-10.25 col-md-8 col-lg-10">
@@ -15,6 +17,9 @@ const About = () => {
           </div>
         </div>
       </div>
+
+      </div>
+    
     );
 
   }

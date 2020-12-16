@@ -4,6 +4,7 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Portfolio from './pages/Portfolio';
 import Navbar from './components/Navbar';
+import Header from './components/Header';
 import './App.css';
 
 
@@ -12,6 +13,7 @@ const App = () => {
     <div>
     <Router>
         <Navbar />
+        <Header />
 
         <div className="App">
           <Switch>
@@ -20,7 +22,7 @@ const App = () => {
             <Route path='/' component={About} />
           </Switch>
         </div>
-    </Router>
+      </Router>
     </div>
   );
 }
